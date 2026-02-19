@@ -45,5 +45,21 @@ The system is built using:
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🔹 Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### 🔹 Teacher Dashboard
+![Teacher Dashboard](screenshots/teacher-dashboard.png)
+
+### 🔹 Attendance Output
+![Attendance Output](screenshots/attendance-output.png)
+
+---
+
+
 ## 📂 Project Structure
 
